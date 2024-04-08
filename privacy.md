@@ -1,15 +1,16 @@
 
 # Privacy Policy
 
-Our privacy policy will help you understand what information we collect at Catholic Hymn Book, how Catholic Hymn Book uses it, and what choices you have.
-Catholic Hymn Book built the Catholic Hymn Book app as a free app. This SERVICE is provided by Catholic Hymn Book at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+Our privacy policy will help you understand what information we collect at Philstech Services, how Philstech Services uses it, and what choices you have.
+
+Philstech Services built the Rejoice In The Lord Hymn Book app as a free app. This SERVICE is provided by Rejoice In The Lord Hymn Book at no cost and is intended for use as is.
+
+If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 
 ## Collection of Routine Information
 
-This app track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific users to this app. The information is tracked for routine administration and maintenance purposes.
+This app tracks basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific users to this app. The information is tracked for routine administration and maintenance purposes.
 
 ## Cookies
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
@@ -36,7 +37,7 @@ The security of your personal information is important to us, but remember that 
 
 ## Changes To This Privacy Policy
 
-This Privacy Policy is effective as of 28/03/2023 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+This Privacy Policy is effective as of 12/12/2023 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
 We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our app.
 
