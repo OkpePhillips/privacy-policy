@@ -1,7 +1,7 @@
 
 # Privacy Policy
 
-Our privacy policy will help you understand what information we collect at Philstech Services, how Philstech Services uses it, and what choices you have.
+Our privacy policy will help you understand what information we collect at Rejoice In The Lord, how Rejoice In The Lord uses it, and what choices you have.
 
 Philstech Services built the Rejoice In The Lord Hymn Book app as a free app. This SERVICE is provided by Rejoice In The Lord Hymn Book at no cost and is intended for use as is.
 
